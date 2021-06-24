@@ -1,6 +1,5 @@
 
-**Selam ben [Lades](https://github.com/ladesxd)!** <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px">
-
+**Selam ben [Lades](https://github.com/ladesxd)!** <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"> <img src="https://komarev.com/ghpvc/?username=ladesxd&color=dc143c"/>
 
 
 **Bana Buradan Ulaşabilirsiniz:**
